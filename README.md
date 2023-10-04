@@ -33,6 +33,6 @@ Una característica destacada de este sistema es el **Generador de Archivo XML**
 ### Borrar Archivo
 <div align="center">
     <img src="https://github.com/KevinJG994/concesionario_xml/assets/96546093/db90b64f-ec9d-4885-bb02-2b85c096faa4" alt="Borrar Archivo 1" width="700"/>
-    <img src="https://github.com/KevinJG994/concesionario_xml/assets/96546093/060d0e58-2c9d-4a50-a8b2-5a1a3e5437d8" alt="Borrar Archivo 2" width="300"/>
+    <img src="https://github.com/KevinJG994/concesionario_xml/assets/96546093/060d0e58-2c9d-4a50-a8b2-5a1a3e5437d8" alt="Borrar Archivo 2" width="320"/>
     <img src="https://github.com/KevinJG994/concesionario_xml/assets/96546093/426b2e3d-ca75-433b-af99-32d7b12564a9" alt="Borrar Archivo 3" width="700"/>
 </div>
